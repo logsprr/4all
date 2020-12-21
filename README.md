@@ -5,7 +5,7 @@
 
 * 2 No terminal ou promt de comando de ( npm install ou yarn install ).
 
-* 3 Mude as variáveis ambientes no arquivo .env para o seu ambiente.
+* 3 Mude as variáveis de conexão com o banco de dados no arquivo config.ts na pasta src/config.
 
 * 4 Rode o projeto usando npm run dev e certifique-se da mudança das variáveis.
 
