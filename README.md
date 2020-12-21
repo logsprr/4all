@@ -1,19 +1,12 @@
 # Instruções para rodar o projeto
 
 
-# 1 
+* 1 Execute o arquivo db.sql no WorkBench ou via terminal com mysql.
 
-Execute o arquivo db.sql no WorkBench ou via terminal
+* 2 No terminal ou promt de comando de ( npm install ou yarn install ).
 
+* 3 Mude as variáveis ambientes no arquivo .env para o seu ambiente.
 
-# 2 
+* 4 Rode o projeto usando npm run dev e certifique-se da mudança das variáveis.
 
-De npm install ou yarn install
-
-# 3 
-
-Rode o projeto usando npm run dev
-
-# 4
-
-O projeto iniciára e criara as tabelas do banco de dados.
+* 5 O projeto iniciára e criara as tabelas do banco de dados.
